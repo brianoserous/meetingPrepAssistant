@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Prep Assistant",
+  "description": "A tool to generate structured meeting intelligence, including summaries, risks, talking points, and next steps from uploaded notes and slides.",
+  "requestFramePermissions": []
+}
